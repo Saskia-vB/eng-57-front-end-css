@@ -1,0 +1,47 @@
+/* import fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+/*import all individual components*/
+
+@import url('components/button.css'); 
+
+@import url('components/avatar.css'); 
+
+@import url('components/banner.css'); 
+
+/*setcss style for general/all pages*/
+
+
+
+.container-text-center {
+	width: 800px;
+	margin:10px;
+	color:black;
+	background-color: white;
+}
+
+.container{
+	width: 800px;
+	margin: 10px;
+	color:black;
+}
+
+
+.text-center {
+	text-align: center;
+}
+
+body {
+	font-family: 'Playfair Display', serif;;
+}
+
+
+
+title{
+	color:black;
+}
+
+.title{
+	color:black;
+	background-color: white;
+}
