@@ -1,0 +1,28 @@
+.bbc-btn {
+	background-color: #CE3F21;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 10px;
+	font-family: 'Playfair Display', serif;
+}
+
+.guardian-bttn {
+	background-color: #082390;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 10px;
+	font-family: 'Helvetica';
+}
+
+
+.forbes-bttn {
+	background-color: black;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 10px;
+	font-family: 'Merriweather';
+}
+
+.avatar{
+	border-radius: 100px;
+}
